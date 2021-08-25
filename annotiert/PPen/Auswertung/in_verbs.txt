@@ -1,0 +1,13 @@
+\begin{tabular}{lr}
+\toprule
+          0 &   1 \\
+\midrule
+        NaN &  63 \\
+ darstellen &   2 \\
+     zeigen &   2 \\
+   sprechen &   2 \\
+  antreffen &   1 \\
+    krümmen &   1 \\
+     denken &   1 \\
+\bottomrule
+\end{tabular}

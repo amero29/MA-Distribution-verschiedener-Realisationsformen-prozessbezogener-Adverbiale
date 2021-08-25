@@ -1,0 +1,13 @@
+\begin{tabular}{lr}
+\toprule
+        0 &  1 \\
+\midrule
+   stehen &  5 \\
+ dastehen &  4 \\
+    sagen &  2 \\
+  spielen &  2 \\
+      tun &  2 \\
+     sein &  2 \\
+   führen &  2 \\
+\bottomrule
+\end{tabular}

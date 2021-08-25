@@ -1,0 +1,13 @@
+\begin{tabular}{lr}
+\toprule
+          0 &   1 \\
+\midrule
+  vorbehalt &  24 \\
+   gewissen &   8 \\
+    konzept &   7 \\
+ niederlage &   4 \\
+   nachteil &   3 \\
+     regung &   2 \\
+   gegentor &   2 \\
+\bottomrule
+\end{tabular}
